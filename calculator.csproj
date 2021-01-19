@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <AssemblyName>QuadPass-Win</AssemblyName>
+    <RootNamespace>QuadPass-Win</RootNamespace>
+    <Version>0.2</Version>
+    <Authors>Rich Amies</Authors>
+    <Company />
+    <Product />
+    <Description>A QUick And Dirty passphrase generator based on EFF wordlist.
+Licensed under the GPLv3.
+ABSOLUTELY NO WARRANTY.</Description>
+    <Copyright>2021 Rich Amies</Copyright>
+  </PropertyGroup>
+
+</Project>
