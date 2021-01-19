@@ -5,7 +5,8 @@ Licensed under the GPLv3 - https://www.gnu.org/licenses/gpl-3.0.en.html
 This program comes with ABSOLUTELY NO WARRANTY.  
 This is free software, and you are welcome to redistribute it under certain conditions.__  
 
-__Uses Microsoft .NET 5.0 runtimes - will prompt to download if not installed.__  
+Download the release ZIP from here: https://github.com/richamies/Quadpass---newer-RNG/releases  
+__Uses Microsoft .NET 5.0 runtimes - should prompt to download if not already installed.__  
     
 QuadPass - a QUick And Dirty Passphrase generator using EFF wordlists.  
 https://www.eff.org/files/2016/09/08/eff_short_wordlist_2_0.txt
