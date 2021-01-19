@@ -17,3 +17,5 @@ https://docs.microsoft.com/en-us/dotnet/api/system.security.cryptography.rngcryp
 https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases
 
 Would be quicker if it didn't make multiple RNG calls per-word - but I wanted to follow the overall approach.  The RNG may appear unbalanced, or biased - there are four very high word count options that may be selected to give the user peace of mind that, in fact, the numbers generated are quite evenly spread when meaesured over a larger range.
+
+I'm sure this can be done better.  I'm no programmer(which ought to be obvious!), and I was just looking to write/learn something one wet afternoon.  It's here as I thought it may be of use to someone wanting a simple offline passphrase generator.
